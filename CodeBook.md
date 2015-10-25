@@ -14,7 +14,7 @@ below is a list of the 68 variables included in the dataset with a brief descrip
 **activityID** - A description of the activity the participant was performing
 **tBodyAccMeanX** -
 **tBodyAccMeanY** -
-**tBodyAccMeanZ** -
+**tBodyAccMC: -
 **tBodyAccStdX** -
 **tBodyAccStdY** -
 **tBodyAccStdZ** -
@@ -77,4 +77,4 @@ below is a list of the 68 variables included in the dataset with a brief descrip
 **fBodyBodyGyroMagMean** -
 **fBodyBodyGyroMagStd** -
 **fBodyBodyGyroJerkMagMean** -
-**fBodyBodyGyroJerkMagStd** -
+**fBodyBodyGyroJerkMagStd** - 
