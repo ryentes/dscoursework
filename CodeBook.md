@@ -14,41 +14,41 @@ below is a list of the 68 variables included in the dataset with a brief descrip
 
 **activityID** - A description of the activity the participant was performing
 
-**tBodyAccMeanX** -
+**tBodyAccMeanX** - Mean bodily acceleration over time in the x dimension (in meters per second))
 
-**tBodyAccMeanY** -
+**tBodyAccMeanY** - Mean bodily acceleration over time in the Y dimension (in meters per second)
 
-**tBodyAccMC**: -
+**tBodyAccMC**: - Mean bodily acceleration over time in the Z dimension (in meters per second))
 
-**tBodyAccStdX** -
+**tBodyAccStdX** - Standard deviation of the bodily acceleration over time in the x dimension
 
-**tBodyAccStdY** -
+**tBodyAccStdY** - Standard deviation of the bodily acceleration over time in the y dimension
 
-**tBodyAccStdZ** -
+**tBodyAccStdZ** - Standard deviation of the bodily acceleration over time in the z dimension
 
-**tGravityAccMeanX** -
+**tGravityAccMeanX** - Gravity component for acceleration in the x dimension (in meters per second)
 
-**tGravityAccMeanY** -
+**tGravityAccMeanY** - Gravity component for acceleration in the y dimension (in meters per second)
 
-**tGravityAccMeanZ** -
+**tGravityAccMeanZ** - Gravity component for acceleration in the z dimension (in meters per second)
 
-**tGravityAccStdX** -
+**tGravityAccStdX** -  standard deviation of the gravity component for acceleration in the x dimension
 
-**tGravityAccStdY** -
+**tGravityAccStdY** - Standard deviation of the gravity component for acceleration in the y dimension
 
-**tGravityAccStdZ** -
+**tGravityAccStdZ** - Standard deviation of the gravity component for acceleration in the z dimension
 
-**tBodyAccJerkMeanX** -
+**tBodyAccJerkMeanX** - Jerk derived from body linear acceleration and angular velocity in the x dimension
 
-**tBodyAccJerkMeanY** -
+**tBodyAccJerkMeanY** - Jerk derived from body linear acceleration and angular velocity in the x dimension
 
-**tBodyAccJerkMeanZ** -
+**tBodyAccJerkMeanZ** - Jerk derived from body linear acceleration and angular velocity in the x dimension
 
-**tBodyAccJerkStdX** -
+**tBodyAccJerkStdX** - standard deviation of jerk in the x dimension
 
-**tBodyAccJerkStdY** -
+**tBodyAccJerkStdY** - standard deviation of jerk in the y dimension
 
-**tBodyAccJerkStdZ** -
+**tBodyAccJerkStdZ** - standard deviation of jerk in the z dimension
 
 **tBodyGyroMeanX** -
 
@@ -144,4 +144,4 @@ below is a list of the 68 variables included in the dataset with a brief descrip
 
 **fBodyBodyGyroJerkMagMean** -
 
-**fBodyBodyGyroJerkMagStd** - 
+**fBodyBodyGyroJerkMagStd** -
