@@ -17,6 +17,7 @@ getData.R is a R script that contains a helper function to prepare the datasets 
 6. Returns the prepared dataset
 
 run_analysis.R is a script that creates a new, tidy dataset that is a further refinement of the data provided by Rayez-Ortiz and colleagues. It Requires several packages to run, including plyr, dplyr, and Hmisc. Additionally, it sources getData.R from the current working directory. the script then does the following:
+
 1. Reads in the vector of activity descriptions from activity_labels.txt
 2. Reads in the vector of variable names from features.txt
 3. calls getData() once each for the test and train datasets, specifying the directory in which they are contained, the list of features, and the activity labels as arguments

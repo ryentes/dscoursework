@@ -11,70 +11,137 @@ This data set was created by combining Reyes-Ortiz and colleagues' test and trai
 below is a list of the 68 variables included in the dataset with a brief description of each.
 
 **subjectID** - An identification number for the participant completing the experiment
+
 **activityID** - A description of the activity the participant was performing
+
 **tBodyAccMeanX** -
+
 **tBodyAccMeanY** -
-**tBodyAccMC: -
+
+**tBodyAccMC**: -
+
 **tBodyAccStdX** -
+
 **tBodyAccStdY** -
+
 **tBodyAccStdZ** -
+
 **tGravityAccMeanX** -
+
 **tGravityAccMeanY** -
+
 **tGravityAccMeanZ** -
+
 **tGravityAccStdX** -
+
 **tGravityAccStdY** -
+
 **tGravityAccStdZ** -
+
 **tBodyAccJerkMeanX** -
+
 **tBodyAccJerkMeanY** -
+
 **tBodyAccJerkMeanZ** -
+
 **tBodyAccJerkStdX** -
+
 **tBodyAccJerkStdY** -
+
 **tBodyAccJerkStdZ** -
+
 **tBodyGyroMeanX** -
+
 **tBodyGyroMeanY** -
+
 **tBodyGyroMeanZ** -
+
 **tBodyGyroStdX** -
+
 **tBodyGyroStdY** -
+
 **tBodyGyroStdZ** -
+
 **tBodyGyroJerkMeanX** -
+
 **tBodyGyroJerkMeanY** -
+
 **tBodyGyroJerkMeanZ** -
+
 **tBodyGyroJerkStdX** -
+
 **tBodyGyroJerkStdY** -
+
 **tBodyGyroJerkStdZ** -
+
 **tBodyAccMagMean** -
+
 **tBodyAccMagStd** -
+
 **tGravityAccMagMean** -
+
 **tGravityAccMagStd** -
+
 **tBodyAccJerkMagMean** -
+
 **tBodyAccJerkMagStd** -
+
 **tBodyGyroMagMean** -
+
 **tBodyGyroMagStd** -
+
 **tBodyGyroJerkMagMean** -
+
 **tBodyGyroJerkMagStd** -
+
 **fBodyAccMeanX** -
+
 **fBodyAccMeanY** -
+
 **fBodyAccMeanZ** -
+
 **fBodyAccStdX** -
+
 **fBodyAccStdY** -
+
 **fBodyAccStdZ** -
+
 **fBodyAccJerkMeanX** -
+
 **fBodyAccJerkMeanY** -
+
 **fBodyAccJerkMeanZ** -
+
 **fBodyAccJerkStdX** -
+
 **fBodyAccJerkStdY** -
+
 **fBodyAccJerkStdZ** -
+
 **fBodyGyroMeanX** -
+
 **fBodyGyroMeanY** -
+
 **fBodyGyroMeanZ** -
+
 **fBodyGyroStdX** -
+
 **fBodyGyroStdY** -
+
 **fBodyGyroStdZ** -
+
 **fBodyAccMagMean** -
+
 **fBodyAccMagStd** -
+
 **fBodyBodyAccJerkMagMean** -
+
 **fBodyBodyAccJerkMagStd** -
+
 **fBodyBodyGyroMagMean** -
+
 **fBodyBodyGyroMagStd** -
+
 **fBodyBodyGyroJerkMagMean** -
+
 **fBodyBodyGyroJerkMagStd** - 
